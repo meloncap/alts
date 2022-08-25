@@ -346,7 +346,8 @@
     },
     {
         "value": "avalanche",
-        "label": "Avalanche"
+        "label": "Avalanche",
+"chain_id": 43114
     },
     {
         "value": "metis-andromeda",
