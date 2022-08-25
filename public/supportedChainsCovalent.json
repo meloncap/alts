@@ -40,7 +40,9 @@
         "is_testnet": false,
         "db_schema_name": "chain_avalanche_mainnet",
         "label": "Avalanche C-Chain Mainnet",
-        "logo_url": "https://www.covalenthq.com/static/images/icons/display-icons/avalanche-avax-logo.png"
+        "logo_url": "https://www.covalenthq.com/static/images/icons/display-icons/avalanche-avax-logo.png",
+"explorer_address_url": "https://snowtrace.io/address/",
+"explorer_transaction_url": "https://snowtrace.io/tx/"
     },
     {
         "name": "avalanche-testnet",
