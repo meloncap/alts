@@ -1,0 +1,225 @@
+[
+    {
+        "chain_id": "1",
+        "chain_name": "eth-mainnet",
+        "dex_name": "uniswap_v2",
+        "explorer_url": "https://info.uniswap.org/#/pools/",
+        "explorer_name": "uniswap"
+    },
+    {
+        "chain_id": "1",
+        "chain_name": "eth-mainnet",
+        "dex_name": "sushiswap",
+        "explorer_url": "https://app.sushi.com/analytics/pools/0x6a091a3406e0073c3cd6340122143009adac0eda?chainId=1",
+        "explorer_name": "sushiSwap"
+    },
+    {
+        "chain_id": "1284",
+        "chain_name": "moonbeam-mainnet",
+        "dex_name": "stellaswap",
+        "explorer_url": "https://analytics.stellaswap.com/pairs/",
+        "explorer_name": "stella swap"
+    },
+    {
+        "chain_id": "1284",
+        "chain_name": "moonbeam-mainnet",
+        "dex_name": "beamswap",
+        "explorer_url": "https://analytics.beamswap.io/pairs/",
+        "explorer_name": "beampswap"
+    },
+    {
+        "chain_id": "1313161554",
+        "chain_name": "aurora-mainnet",
+        "dex_name": "trisolaris",
+        "explorer_url": "https://aurorascan.dev/address/",
+        "explorer_name": "aurora scan"
+    },
+    {
+        "chain_id": "1313161554",
+        "chain_name": "aurora-mainnet",
+        "dex_name": "wannaswap",
+        "explorer_url": "https://aurorascan.dev/address/",
+        "explorer_name": "aurora scan"
+    },
+    {
+        "chain_id": "137",
+        "chain_name": "matic-mainnet",
+        "dex_name": "apeswap_v2",
+        "explorer_url": "https://info.apeswap.finance/pair/",
+        "explorer_name": "apeSwap"
+    },
+    {
+        "chain_id": "137",
+        "chain_name": "matic-mainnet",
+        "dex_name": "quickswap",
+        "explorer_url": "https://info.quickswap.exchange/#/pair/",
+        "explorer_name": "quickSwap"
+    },
+    {
+        "chain_id": "137",
+        "chain_name": "matic-mainnet",
+        "dex_name": "sushiswap",
+        "explorer_url": "https://app.sushi.com/analytics/pools/0x6a091a3406e0073c3cd6340122143009adac0eda?chainId=137",
+        "explorer_name": "sushiSwap"
+    },
+    {
+        "chain_id": "1666600000",
+        "chain_name": "harmony-mainnet",
+        "dex_name": "sushiswap",
+        "explorer_url": "https://app.sushi.com/analytics/pools/0x6a091a3406e0073c3cd6340122143009adac0eda?chainId=1666600000",
+        "explorer_name": "sushiSwap"
+    },
+    {
+        "chain_id": "2020",
+        "chain_name": "axie-mainnet",
+        "dex_name": "katana",
+        "explorer_url": "https://katana-analytics.roninchain.com/pair/",
+        "explorer_name": "katana"
+    },
+    {
+        "chain_id": "25",
+        "chain_name": "cronos-mainnet",
+        "dex_name": "mmf",
+        "explorer_url": "https://mm.finance/analytics/pools/",
+        "explorer_name": "med market finance"
+    },
+    {
+        "chain_id": "25",
+        "chain_name": "cronos-mainnet",
+        "dex_name": "vvf",
+        "explorer_url": "https://vvs.finance/info/farm/",
+        "explorer_name": "VSS finance"
+    },
+    {
+        "chain_id": "250",
+        "chain_name": "fantom-mainnet",
+        "dex_name": "spiritswap",
+        "explorer_url": "https://info.spiritswap.finance/pair/",
+        "explorer_name": "spiritSwap"
+    },
+    {
+        "chain_id": "250",
+        "chain_name": "fantom-mainnet",
+        "dex_name": "spookyswap",
+        "explorer_url": "https://info.spooky.fi/pair/",
+        "explorer_name": "spookySwap"        
+    },
+    {
+        "chain_id": "250",
+        "chain_name": "fantom-mainnet",
+        "dex_name": "sushiswap",
+        "explorer_url": "https://app.sushi.com/analytics/pools/0x6a091a3406e0073c3cd6340122143009adac0eda?chainId=250",
+        "explorer_name": "sushiSwap"        
+    },
+    {
+        "chain_id": "336",
+        "chain_name": "astar-shiden",
+        "dex_name": "standard",
+        "explorer_url": "https://shiden.subscan.io/account/",
+        "explorer_name": "ShidenScan"        
+    },
+    {
+        "chain_id": "43114",
+        "chain_name": "avalanche-mainnet",
+        "dex_name": "pangolin",
+        "explorer_url": "https://info.pangolin.exchange/#/pair/",
+        "explorer_name": "pangolin"        
+    },
+    {
+        "chain_id": "43114",
+        "chain_name": "avalanche-mainnet",
+        "dex_name": "sushiswap",
+        "explorer_url": "https://app.sushi.com/analytics/pools/0x6a091a3406e0073c3cd6340122143009adac0eda?chainId=43114",
+        "explorer_name": "sushiSwap"        
+    },
+    {
+        "chain_id": "43114",
+        "chain_name": "avalanche-mainnet",
+        "dex_name": "traderjoe",
+        "explorer_url": "https://traderjoexyz.com/pool/",
+        "explorer_name": "trader joe"        
+    },
+    {
+        "chain_id": "4689",
+        "chain_name": "iotex-mainnet",
+        "dex_name": "mimo",
+        "explorer_url": "https://v2.info.mimo.exchange/pair/",
+        "explorer_name": "mimo"        
+    },
+    {
+        "chain_id": "56",
+        "chain_name": "bsc-mainnet",
+        "dex_name": "apeswap_v2",
+        "explorer_url": "https://info.apeswap.finance/pair/",
+        "explorer_name": "apeSwap"        
+    },
+    {
+        "chain_id": "56",
+        "chain_name": "bsc-mainnet",
+        "dex_name": "moonlift",
+        "explorer_url": "https://dex.moonlift.capital/info/pool/"
+    },
+    {
+        "chain_id": "56",
+        "chain_name": "bsc-mainnet",
+        "dex_name": "pancakeswap_v2",
+        "explorer_url": "https://pancakeswap.finance/info/pool/",
+        "explorer_name": "pancakeswap"        
+    },
+    {
+        "chain_id": "56",
+        "chain_name": "bsc-mainnet",
+        "dex_name": "sushiswap",
+        "explorer_url": "https://app.sushi.com/analytics/pools/0x6a091a3406e0073c3cd6340122143009adac0eda?chainId=56",
+        "explorer_name": "sushiSwap"        
+    },
+    {
+        "chain_id": "56",
+        "chain_name": "bsc-mainnet",
+        "dex_name": "empiredex",
+        "explorer_url": "https://bsc-analytics.empiredex.org/pair/",
+        "explorer_name": "empire dex"        
+    },
+    {
+        "chain_id": "592",
+        "chain_name": "astar-mainnet",
+        "dex_name": "arthswap",
+        "explorer_url": "https://blockscout.com/astar/token/",
+        "explorer_name": "blockscout"        
+    },
+    {
+        "chain_id": "80001",
+        "chain_name": "matic-mumbai",
+        "dex_name": "sushiswap",
+        "explorer_url": "https://app.sushi.com/analytics/pools/0x6a091a3406e0073c3cd6340122143009adac0eda?chainId=80001",
+        "explorer_name": "sushiSwap"        
+    },
+    {
+        "chain_id": "8217",
+        "chain_name": "klaytn-mainnet",
+        "dex_name": "claimswap",
+        "explorer_url": "https://scope.klaytn.com/account/",
+        "explorer_name": "klatynscope"        
+    },
+    {
+        "chain_id": "9001",
+        "chain_name": "evmos-mainnet",
+        "dex_name": "diffusion",
+        "explorer_url": "https://www.mintscan.io/evmos/account/",
+        "explorer_name": "mintscan"        
+    },
+    {
+        "chain_id": "9001",
+        "chain_name": "evmos-mainnet",
+        "dex_name": "cronus",
+        "explorer_url": "https://www.mintscan.io/evmos/account/",
+        "explorer_name": "mintscan"        
+    },
+    {
+        "chain_id": "9001",
+        "chain_name": "evmos-mainnet",
+        "dex_name": "evmoswap",
+        "explorer_url": "https://www.mintscan.io/evmos/account/",
+        "explorer_name": "mintscan"        
+    }
+]

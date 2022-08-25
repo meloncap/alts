@@ -1,0 +1,89 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.stats-title-div {
+  cursor: pointer;
+}
+
+.searchDropdownIteam {
+  cursor: pointer;
+  padding-bottom: 5px;
+  border-bottom: 1px solid #3A416F;
+}
+
+.searchDropdownIteam:hover {
+  color: #3A416F;
+}
+
+.custom-option {
+  transition: background 60ms;
+}
+
+.custom-option:hover {
+  transition-delay: 60ms;
+  background: #deebff;
+}
+
+.custom-option.custom-select__option--is-focused {
+  background: none;
+}
+
+.custom-option.custom-select__option--is-selected {
+  background: #2684FF;
+}
+
+.react-virtualized-menu-placeholder {
+  margin-top: 12px;
+  color: #9a9a9a;
+  text-align: center;
+}
+
+.react-virtualized-list-wrapper li {
+  list-style: none;
+}
+
+.address-text {
+  font-size: 14px;
+}
+
+.btn-chart{
+  border-bottom-right-radius: 0 !important;
+  border-bottom-left-radius: 0 !important;
+}
+
+a:hover{
+  color: #EA4D00 !important;
+}
+
+a h5:hover{
+  color: #EA4D00 !important;
+}
+
+a h6:hover{
+  color: #EA4D00 !important;
+}
+
+/* .nav-link:not(.active):hover svg {
+  color: #EA4D00 !important;
+} */
+
+
+@media (max-width: 576px) {
+  .address-text {
+    font-size: 11px;
+  }
+}

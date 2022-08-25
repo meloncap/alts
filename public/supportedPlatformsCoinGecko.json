@@ -1,0 +1,392 @@
+[
+    {
+        "value": "factom",
+        "label": "Factom"
+    },
+    {
+        "value": "openledger",
+        "label": "OpenLedger"
+    },
+    {
+        "value": "cosmos",
+        "label": "Cosmos"
+    },
+    {
+        "value": "binancecoin",
+        "label": "Binance Coin"
+    },
+    {
+        "value": "metaverse-etp",
+        "label": "Metaverse ETP"
+    },
+    {
+        "value": "nem",
+        "label": "NEM"
+    },
+    {
+        "value": "moonbeam",
+        "label": "Moonbeam"
+    },
+    {
+        "value": "icon",
+        "label": "ICON"
+    },
+    {
+        "value": "waves",
+        "label": "Waves"
+    },
+    {
+        "value": "kava",
+        "label": "Kava"
+    },
+    {
+        "value": "stratis",
+        "label": "Stratis"
+    },
+    {
+        "value": "theta",
+        "label": "Theta"
+    },
+    {
+        "value": "algorand",
+        "label": "Algorand"
+    },
+    {
+        "value": "nuls",
+        "label": "Nuls"
+    },
+    {
+        "value": "qtum",
+        "label": "Qtum"
+    },
+    {
+        "value": "stellar",
+        "label": "Stellar"
+    },
+    {
+        "value": "nxt",
+        "label": "NXT"
+    },
+    {
+        "value": "ardor",
+        "label": "Ardor"
+    },
+    {
+        "value": "ontology",
+        "label": "Ontology"
+    },
+    {
+        "value": "eos",
+        "label": "EOS"
+    },
+    {
+        "value": "hoo-smart-chain",
+        "label": "Hoo Smart Chain"
+    },
+    {
+        "value": "vechain",
+        "label": "VeChain"
+    },
+    {
+        "value": "omni",
+        "label": "Omni"
+    },
+    {
+        "value": "counterparty",
+        "label": "Counterparty"
+    },
+    {
+        "value": "klay-token",
+        "label": "Klaytn"
+    },
+    {
+        "value": "chiliz",
+        "label": "Chiliz"
+    },
+    {
+        "value": "bitshares",
+        "label": "BitShares"
+    },
+    {
+        "value": "neo",
+        "label": "NEO"
+    },
+    {
+        "value": "super-zero",
+        "label": "Sero"
+    },
+    {
+        "value": "ethereum-classic",
+        "label": "Ethereum Classic"
+    },
+    {
+        "value": "tron",
+        "label": "TRON"
+    },
+    {
+        "value": "bnb-beacon-chain",
+        "label": "BNB Beacon Chain"
+    },
+    {
+        "value": "tezos",
+        "label": "Tezos"
+    },
+    {
+        "value": "komodo",
+        "label": "Komodo"
+    },
+    {
+        "value": "rootstock",
+        "label": "Rootstock RSK"
+    },
+    {
+        "value": "achain",
+        "label": "Achain"
+    },
+    {
+        "value": "vite",
+        "label": "Vite"
+    },
+    {
+        "value": "gochain",
+        "label": "GoChain"
+    },
+    {
+        "value": "wanchain",
+        "label": "Wanchain"
+    },
+    {
+        "value": "enq-enecuum",
+        "label": "Enecuum"
+    },
+    {
+        "value": "mdex",
+        "label": "Mdex"
+    },
+    {
+        "value": "kusama",
+        "label": "Kusama"
+    },
+    {
+        "value": "oasis",
+        "label": "Oasis"
+    },
+    {
+        "value": "bitcoin-cash",
+        "label": "Simple Ledger Protocol (Bitcoin Cash)"
+    },
+    {
+        "value": "velas",
+        "label": "Velas"
+    },
+    {
+        "value": "polis-chain",
+        "label": "Polis Chain"
+    },
+    {
+        "value": "shiden network",
+        "label": "Shiden Network"
+    },
+    {
+        "value": "zilliqa",
+        "label": "Zilliqa"
+    },
+    {
+        "value": "iotex",
+        "label": "IoTeX"
+    },
+    {
+        "value": "terra",
+        "label": "Terra"
+    },
+    {
+        "value": "defichain",
+        "label": "DeFiChain"
+    },
+    {
+        "value": "fusion-network",
+        "label": "Fusion Network"
+    },
+    {
+        "value": "huobi-token",
+        "label": "Huobi ECO Chain Mainnet"
+    },
+    {
+        "value": "syscoin",
+        "label": "Syscoin NEVM"
+    },
+    {
+        "value": "fuse",
+        "label": "Fuse"
+    },
+    {
+        "value": "telos",
+        "label": "Telos"
+    },
+    {
+        "value": "kucoin-community-chain",
+        "label": "Kucoin Community Chain"
+    },
+    {
+        "value": "hoo",
+        "label": "Hoo"
+    },
+    {
+        "value": "Bitcichain",
+        "label": "Bitcichain"
+    },
+    {
+        "value": "near-protocol",
+        "label": "Near Protocol"
+    },
+    {
+        "value": "kardiachain",
+        "label": "KardiaChain"
+    },
+    {
+        "value": "mixin-network",
+        "label": "Mixin Network"
+    },
+    {
+        "value": "xrp",
+        "label": "XRP Ledger"
+    },
+    {
+        "value": "polkadot",
+        "label": "Polkadot"
+    },
+    {
+        "value": "cardano",
+        "label": "Cardano"
+    },
+    {
+        "value": "arbitrum-one",
+        "label": "Arbitrum One"
+    },
+    {
+        "value": "binance-smart-chain",
+        "label": "BNB Smart Chain",
+        "chain_id": 56
+    },
+    {
+        "value": "ronin",
+        "label": "Ronin"
+    },
+    {
+        "value": "solana",
+        "label": "Solana"
+    },
+    {
+        "value": "okex-chain",
+        "label": "OKExChain"
+    },
+    {
+        "value": "fantom",
+        "label": "Fantom"
+    },
+    {
+        "value": "tomochain",
+        "label": "TomoChain"
+    },
+    {
+        "value": "meter",
+        "label": "Meter"
+    },
+    {
+        "value": "osmosis",
+        "label": "Osmosis"
+    },
+    {
+        "value": "celo",
+        "label": "Celo"
+    },
+    {
+        "value": "sora",
+        "label": "Sora"
+    },
+    {
+        "value": "secret",
+        "label": "Secret"
+    },
+    {
+        "value": "polygon-pos",
+        "label": "Polygon POS"
+    },
+    {
+        "value": "thorchain",
+        "label": "Thorchain"
+    },
+    {
+        "value": "elrond",
+        "label": "Elrond"
+    },
+    {
+        "value": "moonriver",
+        "label": "Moonriver"
+    },
+    {
+        "value": "cronos",
+        "label": "Cronos"
+    },
+    {
+        "value": "boba",
+        "label": "Boba Network"
+    },
+    {
+        "value": "smartbch",
+        "label": "SmartBCH"
+    },
+    {
+        "value": "aurora",
+        "label": "Aurora"
+    },
+    {
+        "value": "harmony-shard-0",
+        "label": "Harmony Shard 0"
+    },
+    {
+        "value": "avalanche",
+        "label": "Avalanche"
+    },
+    {
+        "value": "metis-andromeda",
+        "label": "Metis Andromeda"
+    },
+    {
+        "value": "xdai",
+        "label": "xDAI"
+    },
+    {
+        "value": "ethereum",
+        "label": "Ethereum",
+        "chain_id": 1
+    },
+    {
+        "value": "milkomeda-cardano",
+        "label": "Milkomeda (Cardano)"
+    },
+    {
+        "value": "acala",
+        "label": "Acala"
+    },
+    {
+        "value": "optimistic-ethereum",
+        "label": "Optimistic Ethereum"
+    },
+    {
+        "value": "defi-kingdoms-blockchain",
+        "label": "DFK Chain"
+    },
+    {
+        "value": "evmos",
+        "label": "Evmos"
+    },
+    {
+        "value": "conflux",
+        "label": "Conflux"
+    },
+    {
+        "value": "energi",
+        "label": "Energi"
+    }
+]
