@@ -7,7 +7,7 @@ import Link from 'next/link'
 export default function Index() {
 
     <Head>
-        <title>AltSearch - Home</title>
+        <title>betaApp - Home</title>
     </Head>
 
     return (
@@ -35,7 +35,7 @@ export default function Index() {
             <div className='row mx-auto'>
                 <div className='col-12'>
                     <p className='text-justify'>Blockchain provides huge benefits when it comes to transparency and traceability. The AltSearch team is building an easy-to-use tool for crypto users so they
-                        can analyse their projects and retrieve all the information in one app. As of now, only Ethereum and BNB Chain networks are supported - more coming soon!.
+                        can analyse their projects and retrieve all the information in one app. As of now, only Ethereum, BNB Chain networks and Avalanche are supported - more coming soon!.
                     </p>
                     <p className='text-justify'>We currently fetch the data from different API endpoints such as <Link href={'https://www.coingecko.com'}><a title='CoinGecko website'>CoinGecko</a></Link>,
                         <Link href={'https://www.covalenthq.com'}><a title='Covalent website'> Covalent</a></Link>, <Link href={'https://thegraph.com/'}><a title='The Graph website'>The Graph</a></Link> and
@@ -69,7 +69,7 @@ export default function Index() {
             <div className='row mx-auto'>
                 <div className='col-12'>
                     <p className='text-justify'>This is a Beta version so you might expect to find some minor issues - we're working on fixing them to improve the end-user experience.</p>
-                    <p className='text-justify'>Follow us on <Link href={'https://twitter.com/AltSearchApp'}><a title='@AltSearchApp'><strong>Twitter</strong></a></Link> to stay up-to-date on the latest features. Our DMs are always open, we're more than
+                    <p className='text-justify'>Follow us on <Link href={'https://twitter.com/'}><a title='@betaApp'><strong>Twitter</strong></a></Link> to stay up-to-date on the latest features. Our DMs are always open, we're more than
                         happy to listen to your feedback to improve our app!
                     </p>
                 </div>
