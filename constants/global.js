@@ -33,7 +33,7 @@ const customNavStyles = {
         }),
 }
 
-const supportedChainsAnalyzer = ["binance-smart-chain", "ethereum"]
+const supportedChainsAnalyzer = ["binance-smart-chain", "ethereum", "Avalanche"]
 
 // Toaster
 
