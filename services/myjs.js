@@ -356,6 +356,8 @@ export function getChainAddressExplorerUrl(chain_id, contract_address, holder_ad
     if (chain_id == 1) return `https://etherscan.io/token/${contract_address}?a=${holder_address}`;
 
     if (chain_id == 56) return `https://bscscan.com/token/${contract_address}?a=${holder_address}`;
+if (chain_id == 43114) return `https://snowtrace.io/token/${contract_address}?a=${holder_address}`;
+
 }
 
 export function getChainAnalyticsExplorerUrl(chain_id, contract_address, holder_address) {
@@ -363,6 +365,8 @@ export function getChainAnalyticsExplorerUrl(chain_id, contract_address, holder_
     if (chain_id == 1) return `https://etherscan.io/token/${contract_address}?a=${holder_address}#tokenAnalytics`;
 
     if (chain_id == 56) return `https://bscscan.com/token/${contract_address}?a=${holder_address}#tokenAnalytics`;
+if (chain_id == 43114) return `https://snowtrace.io/token/${contract_address}?a=${holder_address}`;
+
 }
 
 export function getTokenExplorerUrl(chain_id, address) {
@@ -370,6 +374,8 @@ export function getTokenExplorerUrl(chain_id, address) {
     if (chain_id == 1) return `https://etherscan.io/token/${address}`;
 
     if (chain_id == 56) return `https://bscscan.com/token/${address}`;
+if (chain_id == 43114) return `https://snowtrace.io/token/${contract_address}?a=${holder_address}`;
+
 }
 
 export function getExplorerTransaction(chain_id, address) {
